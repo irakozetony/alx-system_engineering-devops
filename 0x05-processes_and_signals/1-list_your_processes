@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# this script displays a list of currently running x05-processes
+
+ps -f -aux
